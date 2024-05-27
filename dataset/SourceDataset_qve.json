@@ -1,0 +1,16 @@
+{
+	"name": "SourceDataset_qve",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureMySql1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureMySqlTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "user"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

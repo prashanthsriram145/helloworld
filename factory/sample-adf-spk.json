@@ -1,0 +1,9 @@
+{
+	"name": "sample-adf-spk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "167f4834-7b9b-4e1f-a1a9-e2a302cab767",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
